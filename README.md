@@ -23,5 +23,5 @@ This is a simple web project that allows you to select and display content using
 ## Files
 
 - `index.html`: The main HTML file that contains the project structure.
-- `style.css`: The CSS file that styles the project, including background and hover effects.
+- `styles.css`: The CSS file that styles the project, including background and hover effects.
 - `script.js`: The JavaScript file that adds interactivity to the project, enabling content switching.
